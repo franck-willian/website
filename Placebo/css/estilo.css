@@ -70,13 +70,17 @@ body {
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2) , 0 6px 20px 0 rgba(0,0,0,0.19);
 	border-radius: 20px 20px;
 	padding: 15px 32px;
-	
+	height: 575px;
 }
 
-img {
-    width: 13.78%;
+.logo {
+    width: 10.78%;
     height: auto;
-    padding: 10px;
+}
+
+.image {
+    width: 14.78%;
+    height: auto;
 }
 
 .footer {
@@ -99,4 +103,8 @@ h2 {
 
 p {
     font-size: 0.875em;
+}
+
+i{
+	padding: 3px;
 }
