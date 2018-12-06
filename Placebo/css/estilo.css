@@ -93,12 +93,14 @@ body {
     text-align: center;
 }
 
-h1 {
-    font-size: 2.5em;
+h4 {
+    font-size: 1em;
 }
 
 h2 {
-    font-size: 1.875em;
+    font-size: 1.375em;
+    font-variant:small-caps;
+    font-weight:bold;
 }
 
 p {
